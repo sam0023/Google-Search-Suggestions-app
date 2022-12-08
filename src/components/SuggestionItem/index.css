@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.suggestion-container {
+  display: flex;
+  justify-content: space-between;
+}
+.arrow-button {
+  background-color: #ffffff;
+  border-style: none;
+}
+.li {
+  list-style-type: none;
+}
+.arrow-img {
+  height: 30px;
+}
